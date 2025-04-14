@@ -26,6 +26,3 @@ This is an interactive Image Slider project built using HTML, CSS, and JavaScrip
 - JavaScript (Vanilla)
 
 ---
-
-## Project Structure
-
